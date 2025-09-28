@@ -1,5 +1,6 @@
 ## Algorithm
-[![Solved.ac Profile](http://mazandi.herokuapp.com/api?handle=qpalzmxn)](https://solved.ac/qpalzmxn)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qpalzmxn)](https://solved.ac/qpalzmxn/)
+
 
 ## Contests
 | Award | Date       | Name                                            | Organized by     |
