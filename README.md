@@ -1,3 +1,9 @@
+## Career
+
+- **국민대학교**, 소프트웨어학과 (```2024.03 ~ 재학 중```)
+- **FOSCAR**, 자율주행 연구 • 개발 동아리 (```2024.11 ~ 활동 중```)
+
+
 ## Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qpalzmxn)](https://solved.ac/qpalzmxn/)
 
