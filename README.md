@@ -1,16 +1,16 @@
-## Career
+## 💼 Career
 
 - **국민대학교**, 제1전공 소프트웨어학과 / 제2전공 자동차공학과 (```2024.03 ~ 재학 중```)
 - **FOSCAR**, 자율주행 연구 • 개발 동아리 (```2024.11 ~ 활동 중```)
 
 
-## Algorithm
+## 🧩 Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qpalzmxn)](https://solved.ac/qpalzmxn/)
 
 
 
 
-## Contests
+## 🏆 Contests
 |  | Award       | Name                                            | Organized by     |
 |------------|----------------|-----------------------------------------------------|------------------------|
 || 진행중 | AutoRace 2025 스케일카 자율주행 경진대회 | 국민대학교, COSS |
