@@ -6,9 +6,6 @@
 
 ## Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qpalzmxn)](https://solved.ac/qpalzmxn/)
-<a href="https://github.com/dh0508/algorithm">
-  <img src="https://i.imgur.com/gGutuRI.png" alt="algorithm" width="360"/>
-</a>
 
 
 
