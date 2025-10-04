@@ -17,3 +17,11 @@
 
 ## 🧩 Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qpalzmxn)](https://solved.ac/qpalzmxn/)
+
+## 🖥️ Tech
+### Language
+![Python](https://img.shields.io/badge/python-3776ab.svg?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599c.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+### Tools
+![ROS](https://img.shields.io/badge/ROS-22314e.svg?style=for-the-badge&logo=ros&logoColor=white)
+![MORAI](https://img.shields.io/badge/MORAI-000000.svg?style=for-the-badge&logo=MEGA)
