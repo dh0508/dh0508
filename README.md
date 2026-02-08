@@ -25,3 +25,5 @@
 ### Tools
 ![ROS](https://img.shields.io/badge/ROS-22314e.svg?style=for-the-badge&logo=ros&logoColor=white)
 ![MORAI](https://img.shields.io/badge/MORAI-000000.svg?style=for-the-badge&logo=MEGA)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8.svg?style=for-the-badge&logo=mathworks&logoColor=white)
+![Simulink](https://img.shields.io/badge/Simulink-FF6A00.svg?style=for-the-badge&logo=mathworks&logoColor=white)
